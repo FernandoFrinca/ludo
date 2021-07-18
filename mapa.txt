@@ -1,0 +1,14 @@
+13
+- - - - - - - - - - - - -
+|0 0 0 0 x x x 0 0 0 0|
+|0 o o 0 x c x 0 l l 0|
+|0 o o 0 x c x 0 l l 0|
+|P 1 0 0 x c x 0 0 P 2|
+|x x x x x c x x x x x|
+|x c c c c 0 c c c c x|
+|x x x x x c x x x x x|
+|0 0 0 0 x c x 0 0 0 0|
+|0 t t 0 x c x 0 u u 0|
+|0 t t 0 x c x 0 u u 0|
+|P 4 0 0 x x x 0 0 P 3|
+- - - - - - - - - - - - -
